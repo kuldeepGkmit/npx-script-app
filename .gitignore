@@ -1,0 +1,11 @@
+# NPX Package
+## Ignore all files related to npx package.
+
+# Ignore node_modules directory and its contents
+node_modules/
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore build folder and its contents
+build/
